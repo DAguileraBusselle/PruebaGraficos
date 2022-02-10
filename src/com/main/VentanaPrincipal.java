@@ -72,7 +72,7 @@ public class VentanaPrincipal extends JFrame {
 
 	public VentanaPrincipal() {
 		setTitle("AMANTES DE LA PIZZA");
-		setIconImage(Toolkit.getDefaultToolkit().getImage(VentanaPrincipal.class.getResource("/com/res/appicon.ico")));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(VentanaPrincipal.class.getResource("/com/res/appicon.jpg")));
 		setForeground(new Color(255, 105, 180));
 		getContentPane().setBackground(new Color(255, 228, 225));
 		setBackground(new Color(220, 20, 60));
